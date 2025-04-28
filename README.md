@@ -90,3 +90,7 @@
 9.  接收到的音频块被添加到播放队列中 (`vc.py` 使用 `common.player`)。
 10. 一个单独的线程 (`play.py`) 从队列中播放音频，而不会中断主应用程序流程。
 11. GUI 交互（选择声音、更改设置）会更新用于 VAD 和 VC 请求的相关配置。
+
+## 使用教程
+
+[YouTube](https://www.youtube.com/watch?v=RSf8of5MS4c) [Bilibili](https://www.bilibili.com/video/BV1XLLSzJEfG)
